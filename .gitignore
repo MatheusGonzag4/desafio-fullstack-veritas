@@ -1,0 +1,8 @@
+# Ignorar dependências do Node
+/frontend/node_modules
+
+# Ignorar arquivos de cache e binários do Go
+/backend/bin/
+/backend/*.exe
+/backend/*.test
+/backend/tasks.json # O arquivo de persistência
